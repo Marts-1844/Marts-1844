@@ -1,7 +1,7 @@
 ### **Hello** 👋
 I'm am Vincent Martin Reyes, a recent petroleum engineering graduate and an aspiring data professional.
-- 🌐 Current Focus: I'm actively refining my data analytics expertise in Eskwelabs' Data Analytics Bootcamp Cohort 12, utilizing tools like Google Looker Studio, Microsoft Power BI, and BigQuery.
-- 💡 Diverse Skillset: I'm dedicated to strengthening my skills in data science and analytics, deepening knowledge in Python and SQL for a well-rounded foundation.
-- 🚀 **Continuous Growth:** A firm believer in lifelong learning, I am fueled by curiosity, consistently exploring the vast landscapes of data science and analytics.
+- 🌐 Current Focus: Having completed Eskwelabs' immersive bootcamp, I've gained skills in interpreting complex datasets and extracting valuable insights. My aim is to apply this knowledge pragmatically and contribute meaningfully to data-driven projects.
+- 💡 Diverse Skillset: I'm dedicated to strengthening my skills in data science and analytics, with a keen interest in deepening my knowledge of Python and SQL. I've gained practical experience with tools like Google Looker Studio, Microsoft Power BI, and BigQuery, contributing to my versatility in handling various data tasks.
+- 🚀 **Continuous Growth:** A firm believer in lifelong learning, I am fueld by curiosity to explore the ever-evolving field of data science and analytics.
 
 Check out my [Data Analytics Projects Portfolio](https://github.com/Marts-1844/Data-Analytics-Projects-Portfolio).🤗
